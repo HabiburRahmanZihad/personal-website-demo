@@ -1,0 +1,48 @@
+/* Bebas Neue */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* Roboto */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-font {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+/* Default settings */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+section {
+    margin-top: 80px;
+}
+
+
+/* Shared Style  */
+.display-flex {
+    display: flex;
+}
+
+
+/* Header *//* Header *//* Header */
